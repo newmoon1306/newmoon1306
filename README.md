@@ -1,10 +1,10 @@
 👋 Oi, Sou Lisandra Silva , desenvolvedora Backand: Python 
 <div> 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=newmoon1306&theme=synthwave" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=newmoon1306&theme=synthwave" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=newmoon1306&layout=compact&langs_count=8&card_width=320&theme=synthwave" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=newmoon1306&layout=compact&langs_count=8&card_width=320&theme=synthwave" />
 </a>
 </div>
 
