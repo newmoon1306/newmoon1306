@@ -1,4 +1,4 @@
-👋 Oi, Sou Lisandra Silva , desenvolvedora Backand: Python 
+👋 Oi, Sou Lisandra Silva , desenvolvedora Backand | Python 
 <div> 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=newmoon1306&theme=synthwave" />
